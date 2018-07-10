@@ -1,0 +1,1 @@
+first run the server program. and then client. give the same port number in server.py as well as client.py
